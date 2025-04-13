@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "userId": "Newusertest",
+      "passcode": "1234!"
+    },
+    {
+      "userId": "testuser",
+      "passcode": "1234"
+    },
+    {
+      "userId": "newuser",
+      "passcode": "12345"
+    }
+  ],
+  "entries": []
+}

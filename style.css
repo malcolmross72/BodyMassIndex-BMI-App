@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f4f8;
+    margin: 0;
+    padding: 20px;
+    color: #333;
+  }
+  
+  h2 {
+    color: #4a90e2;
+    margin-bottom: 10px;
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  
+  input, button {
+    margin: 5px 0 15px;
+    padding: 8px;
+    width: 90%;
+    max-width: 300px;
+    display: block;
+  }
+  
+  button {
+    background-color: #4a90e2;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #357ab7;
+  }
+  
+  p#adviceContent {
+    font-size: 1.2em;
+    font-style: italic;
+    margin: 20px 0;
+  }
+  
+  table {
+    width: 90%;
+    max-width: 600px;
+    margin: 20px auto;
+    border-collapse: collapse;
+  }
+  
+  table, th, td {
+    border: 1px solid #ccc;
+  }
+  
+  th, td {
+    padding: 10px;
+    text-align: center;
+  }
+  
+  th {
+    background-color: #e6f0ff;
+  }
